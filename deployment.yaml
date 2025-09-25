@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: carlosedu20/hello-app:b0189320795d1ad1bbfb9b5d37932e0d7b247a65
+          image: carlosedu20/hello-app:60f87a5b164cc45a8fc07631ed0bea7e06b10335
           ports: 
             - containerPort: 80
